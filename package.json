@@ -1,6 +1,6 @@
 {
   "name": "meme-generator-app",
-  "homepage": "https://thetechjournal.github.io/",
+  "homepage": "https://thetechjournal.github.io/meme-generator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
